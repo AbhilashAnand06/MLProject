@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#unnecessary folders
+artifacts/
+log/
+catboost_info/
+
 # Distribution / packaging
 .Python
 build/
